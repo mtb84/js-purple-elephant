@@ -27,3 +27,7 @@ body {
     top: 50%;
     left: 50%;
 }
+
+.purp-elephant:hover {
+    border: 50px dotted green;
+}
