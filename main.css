@@ -1,3 +1,28 @@
 div {
     background-color: purple;
 }
+body {
+    background-color: purple;
+    font-family: cursive;
+}
+
+.img-wrapper {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.purp-elephant {
+    position: relative;
+    width: 50%;
+    height: auto;
+    border: 2px solid orangered;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.purp-elephant img {
+    top: 50%;
+    left: 50%;
