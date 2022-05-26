@@ -1,3 +1,1 @@
-const doSomething() {
-    console.log('something else');
-}
+const body = document.querySelector('body');
